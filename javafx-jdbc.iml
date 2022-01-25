@@ -27,20 +27,10 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/javafx-swt.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.base.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.controls.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.fxml.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.graphics.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.media.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.swing.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/javafx.web.jar!/" />
           <root url="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.47-bin.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/src/main/java" />
-        </SOURCES>
+        <SOURCES />
       </library>
     </orderEntry>
   </component>
