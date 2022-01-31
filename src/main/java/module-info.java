@@ -7,4 +7,5 @@ module com.example.javafxjdbc {
     exports com.example.javafxjdbc;
     exports com.example.javafxjdbc.gui;
     opens com.example.javafxjdbc.gui to javafx.fxml;
+    opens com.example.javafxjdbc.model.entities to javafx.graphics, javafx.fxml, javafx.base;
 }
